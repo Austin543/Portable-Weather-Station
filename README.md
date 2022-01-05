@@ -1,4 +1,4 @@
-# temperature-and-humidity
+# Portable-Weather-Station
 Some code connecting a DHT22 temperature + humidity sensor with an arduino utilizing a SSD1306 OLED display
 
 All connections are shown in the pdf schematic. Change pin numbers if you need.
